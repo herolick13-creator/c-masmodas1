@@ -1,0 +1,6 @@
+{
+  "name": "C-MAS Modas — Loja e Boutique de Roupas",
+  "description": "Sistema completo e boutique de moda física e online da C-MAS Modas em Campo Grande - MS. Elegância, sofisticação e controle integrado de vendas e estoque.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
